@@ -1,0 +1,200 @@
+Delhi,2025-09-05T06:33,172.16.1.100,10.10.10.20,admin,ServerABC,system-shutdown,System shutdown: Reason4,warning,0.33
+Delhi,2025-09-01T16:19,192.168.2.5,10.1.1.2,user123,DeviceXYZ,auth-success,Successful login for user 'user123' from IP 192.168.2.5,warning,0.10
+Delhi,2025-09-04T01:38,10.0.0.100,10.1.1.2,anonymous,DeviceXYZ,auth-success,Successful login for user 'anonymous' from IP 10.0.0.100,informational,0.10
+Delhi,2025-09-04T07:05,10.1.1.1,10.10.10.20,guest,ServerABC,network-connected,Device 'ServerABC' connected to the network at IP 10.1.1.1,informational,0.13
+Delhi,2025-08-30T23:28,10.1.1.1,10.10.10.20,admin,DeviceXYZ,malware-detection,Malware detected: File '/path/to/file643.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ,error,0.37
+Delhi,2025-09-03T12:09,147.145.131.1,180.225.199.51,admin,ServerABC,api-called,API called: API2 from IP 147.145.131.1,informational,0.73
+Delhi,2025-09-02T06:10,172.16.0.10,10.1.1.2,anonymous,Workstation123,auth-success,Successful login for user 'anonymous' from IP 172.16.0.10,warning,0.10
+Delhi,2025-09-03T12:25,10.1.1.1,192.168.0.2,guest,ServerABC,system-restart,System restart: Reason6,error,0.30
+Delhi,2025-09-05T02:20,172.16.1.100,10.0.0.3,guest,DeviceXYZ,network-disconnected,Device 'DeviceXYZ' disconnected from the network at IP 172.16.1.100,warning,0.13
+Delhi,2025-09-01T05:44,10.0.0.100,10.0.0.3,guest,Workstation123,dns-queries,DNS query from IP 10.0.0.100 for domain 'example48.com',informational,0.17
+Delhi,2025-09-01T09:54,192.168.0.1,172.16.1.101,user123,ServerABC,application-errors,Application error: Error message: 91,error,0.27
+Delhi,2025-09-04T12:15,172.16.0.10,10.1.1.2,admin,DeviceXYZ,system-shutdown,System shutdown: Reason8,informational,0.33
+Delhi,2025-09-05T09:07,192.168.1.100,10.0.0.3,anonymous,DeviceXYZ,system-shutdown,System shutdown: Reason7,warning,0.33
+Delhi,2025-09-01T09:47,172.16.0.10,192.168.2.6,anonymous,ServerABC,file-access,File access: Write to file '/path/to/file92.txt' by user 'anonymous' from IP 172.16.0.10,critical,0.23
+Delhi,2025-09-01T02:58,10.0.0.100,192.168.2.6,anonymous,DeviceXYZ,permission-changes,User 'anonymous' tried changing permissions for file '/path/to/file570.txt' access revoked,informational,0.17
+Delhi,2025-09-02T18:04,192.168.1.100,172.16.1.101,anonymous,Workstation123,auth-failed,Failed login attempt for user 'anonymous' from IP 192.168.1.100,warning,0.33
+Delhi,2025-08-30T15:02,192.168.2.5,10.0.0.3,admin,ServerABC,network-connected,Device 'ServerABC' connected to the network at IP 192.168.2.5,warning,0.13
+Delhi,2025-09-04T17:16,10.10.10.10,192.168.10.6,admin,DeviceXYZ,auth-success,Successful login for user 'admin' from IP 10.10.10.10,error,0.10
+Delhi,2025-09-01T00:19,10.0.0.100,10.10.10.20,anonymous,ServerABC,melissa-error,Device 'ServerABC' contains Melissa access revoked for ServerABC,informational,0.23
+Delhi,2025-09-01T11:47,172.16.0.10,192.168.0.2,user123,ServerABC,permission-changes,User 'user123' tried changing permissions for file '/path/to/file916.txt' access revoked,warning,0.17
+Delhi,2025-09-02T14:34,10.0.0.2,10.0.0.3,user123,DeviceXYZ,network-connected,Device 'DeviceXYZ' connected to the network at IP 10.0.0.2,informational,0.13
+Delhi,2025-09-02T22:23,172.16.0.10,10.1.1.2,guest,ServerABC,dns-queries,DNS query from IP 172.16.0.10 for domain 'example921.com',error,0.17
+Delhi,2025-08-30T23:23,10.10.10.10,10.0.0.101,anonymous,Workstation123,auth-success,Successful login for user 'anonymous' from IP 10.10.10.10,informational,0.10
+Delhi,2025-09-04T10:35,10.0.0.2,192.168.0.2,anonymous,DeviceXYZ,system-shutdown,System shutdown: Reason6,error,0.33
+Delhi,2025-08-30T14:59,172.16.1.100,10.0.0.101,admin,Workstation123,api-called,API called: API1 from IP 172.16.1.100,informational,0.20
+Delhi,2025-09-04T11:43,172.16.1.100,10.0.0.3,anonymous,DeviceXYZ,conficker-error,Device 'DeviceXYZ' contains Conficker access revoked for DeviceXYZ,informational,0.23
+Delhi,2025-09-02T14:49,172.16.1.100,192.168.0.2,anonymous,ServerABC,system-restart,System restart: Reason7,informational,0.30
+Delhi,2025-09-01T10:00,10.10.10.10,10.0.0.3,user123,DeviceXYZ,auth-success,Successful login for user 'user123' from IP 10.10.10.10,informational,0.10
+Delhi,2025-08-31T08:57,10.0.0.100,192.168.2.6,guest,ServerABC,system-shutdown,System shutdown: Reason4,informational,0.33
+Delhi,2025-09-03T15:54,172.16.0.10,172.16.1.101,anonymous,ServerABC,dns-queries,DNS query from IP 172.16.0.10 for domain 'example117.com',informational,0.17
+Delhi,2025-09-05T03:19,192.168.0.1,10.0.0.101,guest,ServerABC,file-access,File access: Write to file '/path/to/file561.txt' by user 'guest' from IP 192.168.0.1,informational,0.23
+Delhi,2025-09-04T21:10,192.168.2.5,10.0.0.101,admin,ServerABC,network-connected,Device 'ServerABC' connected to the network at IP 192.168.2.5,error,0.13
+Delhi,2025-09-03T14:33,172.16.0.10,10.10.10.20,guest,DeviceXYZ,api-called,API called: API1 from IP 172.16.0.10,informational,0.20
+Delhi,2025-09-04T12:08,192.168.1.100,192.168.2.6,anonymous,Workstation123,malware-download-attempt,User anonymous tried downloading file containing vAZORult download revoked,informational,0.23
+Delhi,2025-08-31T21:02,172.16.1.100,172.16.1.101,guest,DeviceXYZ,network-connected,Device 'DeviceXYZ' connected to the network at IP 172.16.1.100,informational,0.13
+Delhi,2025-09-04T08:22,10.0.0.100,192.168.0.2,admin,Workstation123,auth-success,Successful login for user 'admin' from IP 10.0.0.100,informational,0.10
+Delhi,2025-09-02T04:11,10.1.1.1,10.0.0.101,user123,DeviceXYZ,network-connected,Device 'DeviceXYZ' connected to the network at IP 10.1.1.1,informational,0.13
+Delhi,2025-09-01T03:22,192.168.0.1,172.16.0.20,anonymous,DeviceXYZ,auth-failed,Failed login attempt for user 'anonymous' from IP 192.168.0.1,informational,0.33
+Delhi,2025-09-01T13:39,10.1.1.1,192.168.0.2,user123,DeviceXYZ,application-usage,User 'user123' used application 'App10',warning,0.13
+Delhi,2025-09-02T17:37,192.168.0.1,192.168.10.6,anonymous,ServerABC,auth-failed,Failed login attempt for user 'anonymous' from IP 192.168.0.1,critical,0.33
+Delhi,2025-09-04T11:59,10.0.0.100,192.168.2.6,anonymous,Workstation123,conficker-error,Device 'Workstation123' contains Conficker access revoked for Workstation123,warning,0.23
+Delhi,2025-09-01T00:55,10.10.10.10,192.168.10.6,user123,ServerABC,malware-detection,Malware detected: File '/path/to/file87.txt' found on device 'ServerABC' access revoked for ServerABC,informational,0.37
+Delhi,2025-09-02T05:29,10.0.0.100,172.16.1.101,user123,ServerABC,system-shutdown,System shutdown: Reason5,error,0.33
+Delhi,2025-09-04T22:06,192.168.10.5,192.168.0.2,guest,Workstation123,auth-success,Successful login for user 'guest' from IP 192.168.10.5,informational,0.10
+Delhi,2025-08-30T17:26,10.0.0.100,192.168.0.3,anonymous,Workstation123,system-restart,System restart: Reason8,critical,0.30
+Delhi,2025-09-01T03:50,10.1.1.1,192.168.2.6,admin,ServerABC,dns-queries,DNS query from IP 10.1.1.1 for domain 'example83.com',informational,0.17
+Delhi,2025-09-04T01:22,192.168.1.100,192.168.2.6,anonymous,Workstation123,firewall-change,Firewall rule change: Port 4360 opened for IP 192.168.1.100 access revoked,informational,0.30
+Delhi,2025-09-01T04:50,172.16.0.10,10.1.1.2,admin,ServerABC,auth-success,Successful login for user 'admin' from IP 172.16.0.10,informational,0.10
+Delhi,2025-09-02T16:48,192.168.1.100,172.16.1.101,admin,DeviceXYZ,system-shutdown,System shutdown: Reason3,warning,0.33
+Delhi,2025-09-05T00:34,192.168.10.5,192.168.0.2,user123,DeviceXYZ,application-usage,User 'user123' used application 'App6',informational,0.13
+Delhi,2025-09-01T06:13,112.168.98.155,24.177.23.202,guest,ServerABC,auth-failed,Failed login attempt for user 'guest' from IP 112.168.98.155,warning,0.87
+Delhi,2025-08-30T10:17,10.0.0.2,192.168.2.6,anonymous,DeviceXYZ,auth-success,Successful login for user 'anonymous' from IP 10.0.0.2,warning,0.10
+Delhi,2025-09-04T17:58,10.0.0.2,192.168.2.6,guest,DeviceXYZ,malware-detection,Malware detected: File '/path/to/file972.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ,warning,0.37
+Delhi,2025-09-02T18:43,172.16.1.100,192.168.0.2,user123,DeviceXYZ,permission-changes,User 'user123' tried changing permissions for file '/path/to/file665.txt' access revoked,informational,0.17
+Delhi,2025-08-31T13:26,10.0.0.2,172.16.1.101,anonymous,Workstation123,auth-success,Successful login for user 'anonymous' from IP 10.0.0.2,warning,0.10
+Delhi,2025-09-03T10:16,10.0.0.2,10.0.0.3,admin,DeviceXYZ,system-shutdown,System shutdown: Reason1,informational,0.33
+Delhi,2025-08-31T20:37,10.0.0.100,192.168.0.2,admin,ServerABC,network-connected,Device 'ServerABC' connected to the network at IP 10.0.0.100,warning,0.13
+Delhi,2025-09-05T08:58,172.16.1.100,10.10.10.20,admin,ServerABC,system-restart,System restart: Reason7,informational,0.30
+Delhi,2025-08-30T16:54,9.247.253.177,159.16.127.237,guest,DeviceXYZ,stuxnet-error,Device 'DeviceXYZ' contains Stuxnet access revoked for DeviceXYZ,warning,0.77
+Delhi,2025-08-31T15:40,192.168.10.5,192.168.0.3,admin,Workstation123,auth-success,Successful login for user 'admin' from IP 192.168.10.5,informational,0.10
+Delhi,2025-09-04T01:29,192.168.10.5,172.16.1.101,admin,DeviceXYZ,firewall-change,Firewall rule change: Port 53197 opened for IP 192.168.10.5 access revoked,informational,0.30
+Delhi,2025-09-01T01:04,172.16.1.100,192.168.0.2,anonymous,ServerABC,conficker-error,Device 'ServerABC' contains Conficker access revoked for ServerABC,error,0.23
+Delhi,2025-09-03T03:10,10.10.10.10,10.10.10.20,guest,DeviceXYZ,network-disconnected,Device 'DeviceXYZ' disconnected from the network at IP 10.10.10.10,informational,0.13
+Delhi,2025-09-04T22:23,10.0.0.100,10.10.10.20,user123,Workstation123,auth-success,Successful login for user 'user123' from IP 10.0.0.100,informational,0.10
+Delhi,2025-08-31T13:27,192.168.0.1,172.16.1.101,admin,ServerABC,auth-success,Successful login for user 'admin' from IP 192.168.0.1,informational,0.10
+Delhi,2025-09-02T22:27,192.168.10.5,10.0.0.101,guest,Workstation123,stuxnet-error,Device 'Workstation123' contains Stuxnet access revoked for Workstation123,warning,0.23
+Delhi,2025-09-02T04:53,192.168.2.5,192.168.10.6,admin,Workstation123,auth-failed,Failed login attempt for user 'admin' from IP 192.168.2.5,warning,0.33
+Delhi,2025-08-30T13:18,192.168.1.100,10.1.1.2,guest,ServerABC,file-access,File access: Read to file '/path/to/file23.txt' by user 'guest' from IP 192.168.1.100,warning,0.23
+Delhi,2025-08-30T09:58,172.16.0.10,10.1.1.2,user123,DeviceXYZ,malware-detection,Malware detected: File '/path/to/file710.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ,warning,0.37
+Delhi,2025-09-04T13:00,192.168.1.100,192.168.10.6,guest,Workstation123,auth-success,Successful login for user 'guest' from IP 192.168.1.100,informational,0.10
+Delhi,2025-09-04T12:46,172.16.1.100,192.168.2.6,anonymous,ServerABC,network-connected,Device 'ServerABC' connected to the network at IP 172.16.1.100,informational,0.13
+Delhi,2025-09-02T04:59,192.168.1.100,10.0.0.101,admin,Workstation123,application-errors,Application error: Error message: 82,error,0.27
+Delhi,2025-08-31T05:52,192.168.0.1,172.16.1.101,admin,DeviceXYZ,auth-success,Successful login for user 'admin' from IP 192.168.0.1,warning,0.10
+Delhi,2025-08-31T08:37,192.168.0.1,172.16.1.101,user123,Workstation123,firewall-change,Firewall rule change: Port 4903 opened for IP 192.168.0.1 access revoked,informational,0.30
+Delhi,2025-09-05T03:52,10.1.1.1,172.16.0.20,admin,DeviceXYZ,application-errors,Application error: Error message: 35,informational,0.27
+Delhi,2025-09-01T00:35,192.168.1.100,172.16.1.101,user123,ServerABC,network-connected,Device 'ServerABC' connected to the network at IP 192.168.1.100,informational,0.13
+Delhi,2025-09-04T18:21,192.168.2.5,192.168.2.6,anonymous,ServerABC,application-errors,Application error: Error message: 15,informational,0.27
+Delhi,2025-09-03T06:20,172.16.0.10,172.16.0.20,user123,ServerABC,malware-download-attempt,User user123 tried downloading file containing vMOUSEISLAND download revoked,warning,0.23
+Delhi,2025-09-01T00:03,192.168.0.1,192.168.0.3,admin,ServerABC,system-restart,System restart: Reason5,informational,0.30
+Delhi,2025-09-04T00:03,192.168.10.5,192.168.10.6,guest,Workstation123,system-restart,System restart: Reason3,warning,0.30
+Delhi,2025-09-03T06:50,10.0.0.100,172.16.0.20,admin,DeviceXYZ,api-called,API called: API5 from IP 10.0.0.100,warning,0.20
+Delhi,2025-09-02T17:38,172.16.0.10,172.16.1.101,guest,Workstation123,network-disconnected,Device 'Workstation123' disconnected from the network at IP 172.16.0.10,error,0.13
+Delhi,2025-09-05T05:48,192.168.10.5,10.0.0.3,admin,ServerABC,software-update,Software update: Software4 updated to version v1,informational,0.27
+Delhi,2025-09-05T04:41,192.168.10.5,10.10.10.20,guest,DeviceXYZ,software-update,Software update: Software7 updated to version v3,informational,0.27
+Delhi,2025-09-02T03:18,80.141.93.235,42.211.59.30,guest,ServerABC,conficker-error,Device 'ServerABC' contains Conficker access revoked for ServerABC,informational,0.77
+Delhi,2025-08-31T06:53,10.10.10.10,192.168.2.6,user123,Workstation123,auth-success,Successful login for user 'user123' from IP 10.10.10.10,warning,0.10
+Delhi,2025-08-30T21:38,10.1.1.1,10.0.0.3,anonymous,DeviceXYZ,malware-detection,Malware detected: File '/path/to/file337.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ,error,0.37
+Delhi,2025-09-02T07:40,10.10.10.10,192.168.0.2,anonymous,DeviceXYZ,system-restart,System restart: Reason2,error,0.30
+Delhi,2025-08-31T23:09,192.168.1.100,10.10.10.20,guest,DeviceXYZ,system-shutdown,System shutdown: Reason8,critical,0.33
+Delhi,2025-09-03T10:59,10.0.0.2,172.16.1.101,admin,Workstation123,auth-failed,Failed login attempt for user 'admin' from IP 10.0.0.2,informational,0.33
+Delhi,2025-08-30T09:36,172.16.0.10,192.168.10.6,anonymous,Workstation123,system-shutdown,System shutdown: Reason6,informational,0.33
+Delhi,2025-09-02T04:36,192.168.10.5,172.16.1.101,guest,ServerABC,auth-lockout,User 'guest' locked out after multiple failed login attempts from IP 192.168.10.5,informational,0.37
+Delhi,2025-09-04T22:06,172.16.0.10,192.168.10.6,user123,DeviceXYZ,application-errors,Application error: Error message: 73,informational,0.27
+Delhi,2025-09-05T01:38,10.10.10.10,192.168.0.2,admin,ServerABC,system-restart,System restart: Reason1,informational,0.30
+Delhi,2025-09-03T15:58,192.168.2.5,192.168.10.6,anonymous,DeviceXYZ,firewall-change,Firewall rule change: Port 14843 opened for IP 192.168.2.5 access revoked,warning,0.30
+Delhi,2025-08-30T20:58,172.16.0.10,172.16.0.20,admin,ServerABC,dns-queries,DNS query from IP 172.16.0.10 for domain 'example883.com',warning,0.17
+Delhi,2025-09-01T04:28,192.168.1.100,172.16.1.101,guest,Workstation123,firewall-change,Firewall rule change: Port 8949 opened for IP 192.168.1.100 access revoked,warning,0.30
+Delhi,2025-08-31T17:50,172.16.1.100,10.0.0.3,guest,DeviceXYZ,firewall-change,Firewall rule change: Port 7712 opened for IP 172.16.1.100 access revoked,informational,0.30
+Delhi,2025-09-04T02:23,192.168.2.5,192.168.2.6,anonymous,DeviceXYZ,auth-lockout,User 'anonymous' locked out after multiple failed login attempts from IP 192.168.2.5,informational,0.37
+Delhi,2025-08-31T00:54,172.16.1.100,172.16.0.20,anonymous,ServerABC,auth-success,Successful login for user 'anonymous' from IP 172.16.1.100,informational,0.10
+Delhi,2025-09-04T03:14,192.168.0.1,192.168.2.6,admin,Workstation123,application-errors,Application error: Error message: 32,informational,0.27
+Delhi,2025-08-30T19:23,10.0.0.2,192.168.10.6,anonymous,DeviceXYZ,malware-detection,Malware detected: File '/path/to/file70.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ,error,0.37
+Delhi,2025-09-02T06:03,192.168.10.5,192.168.2.6,anonymous,Workstation123,firewall-change,Firewall rule change: Port 10956 opened for IP 192.168.10.5 access revoked,informational,0.30
+Delhi,2025-08-31T02:10,172.16.0.10,10.1.1.2,admin,DeviceXYZ,auth-success,Successful login for user 'admin' from IP 172.16.0.10,informational,0.10
+Delhi,2025-09-04T07:12,172.16.0.10,192.168.2.6,user123,DeviceXYZ,melissa-error,Device 'DeviceXYZ' contains Melissa access revoked for DeviceXYZ,informational,0.23
+Delhi,2025-08-30T22:56,10.0.0.100,10.10.10.20,guest,DeviceXYZ,malware-detection,Malware detected: File '/path/to/file55.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ,warning,0.37
+Delhi,2025-08-30T20:14,192.168.0.1,10.0.0.3,anonymous,DeviceXYZ,auth-success,Successful login for user 'anonymous' from IP 192.168.0.1,critical,0.10
+Delhi,2025-08-30T15:40,192.168.10.5,172.16.0.20,anonymous,ServerABC,stuxnet-error,Device 'ServerABC' contains Stuxnet access revoked for ServerABC,informational,0.23
+Delhi,2025-09-02T09:35,172.16.1.100,10.0.0.3,anonymous,DeviceXYZ,application-errors,Application error: Error message: 19,warning,0.27
+Delhi,2025-09-01T14:05,10.1.1.1,10.0.0.101,user123,DeviceXYZ,firewall-change,Firewall rule change: Port 54011 opened for IP 10.1.1.1 access revoked,informational,0.30
+Delhi,2025-09-02T13:21,10.0.0.100,10.1.1.2,admin,Workstation123,network-connected,Device 'Workstation123' connected to the network at IP 10.0.0.100,informational,0.13
+Delhi,2025-09-02T23:25,90.247.15.120,6.124.247.77,guest,ServerABC,melissa-error,Device 'ServerABC' contains Melissa access revoked for ServerABC,warning,0.77
+Delhi,2025-09-02T14:23,10.0.0.100,192.168.2.6,guest,Workstation123,auth-success,Successful login for user 'guest' from IP 10.0.0.100,informational,0.10
+Delhi,2025-08-30T21:40,10.0.0.100,10.0.0.3,user123,Workstation123,permission-changes,User 'user123' tried changing permissions for file '/path/to/file195.txt' access revoked,informational,0.17
+Delhi,2025-09-01T09:32,172.16.1.100,192.168.0.3,admin,ServerABC,network-connected,Device 'ServerABC' connected to the network at IP 172.16.1.100,informational,0.13
+Delhi,2025-08-31T20:18,10.0.0.2,10.10.10.20,anonymous,DeviceXYZ,stuxnet-error,Device 'DeviceXYZ' contains Stuxnet access revoked for DeviceXYZ,informational,0.23
+Delhi,2025-09-02T22:31,172.16.1.100,192.168.2.6,user123,Workstation123,system-shutdown,System shutdown: Reason5,informational,0.33
+Delhi,2025-09-02T17:32,57.14.85.196,204.253.4.1,user123,Workstation123,melissa-error,Device 'Workstation123' contains Melissa access revoked for Workstation123,informational,0.77
+Delhi,2025-09-02T21:14,54.114.89.162,94.96.75.106,guest,Workstation123,system-shutdown,System shutdown: Reason10,error,0.87
+Delhi,2025-09-02T23:36,231.146.165.190,241.213.175.205,anonymous,ServerABC,auth-success,Successful login for user 'anonymous' from IP 231.146.165.190,informational,0.63
+Delhi,2025-09-05T08:51,10.0.0.100,10.0.0.101,guest,DeviceXYZ,auth-success,Successful login for user 'guest' from IP 10.0.0.100,informational,0.10
+Delhi,2025-09-01T11:44,192.168.2.5,10.10.10.20,guest,DeviceXYZ,auth-success,Successful login for user 'guest' from IP 192.168.2.5,informational,0.10
+Delhi,2025-09-02T23:53,192.168.10.5,10.10.10.20,user123,DeviceXYZ,stuxnet-error,Device 'DeviceXYZ' contains Stuxnet access revoked for DeviceXYZ,informational,0.23
+Delhi,2025-08-30T17:04,10.1.1.1,192.168.0.3,admin,DeviceXYZ,stuxnet-error,Device 'DeviceXYZ' contains Stuxnet access revoked for DeviceXYZ,informational,0.23
+Delhi,2025-09-04T18:37,192.168.10.5,10.1.1.2,admin,Workstation123,auth-failed,Failed login attempt for user 'admin' from IP 192.168.10.5,error,0.33
+Delhi,2025-09-04T05:21,192.168.0.1,172.16.1.101,anonymous,Workstation123,software-update,Software update: Software4 updated to version v2,warning,0.27
+Delhi,2025-09-02T05:19,192.168.2.5,10.10.10.20,anonymous,DeviceXYZ,auth-lockout,User 'anonymous' locked out after multiple failed login attempts from IP 192.168.2.5,informational,0.37
+Delhi,2025-08-31T21:50,10.0.0.2,10.0.0.3,guest,Workstation123,auth-success,Successful login for user 'guest' from IP 10.0.0.2,informational,0.10
+Delhi,2025-09-03T22:36,192.168.0.1,172.16.1.101,admin,ServerABC,malware-download-attempt,User admin tried downloading file containing vFormBook download revoked,informational,0.23
+Delhi,2025-09-01T05:32,192.168.1.100,192.168.0.3,guest,ServerABC,system-restart,System restart: Reason2,informational,0.30
+Delhi,2025-09-04T00:47,192.168.10.5,10.10.10.20,guest,Workstation123,auth-success,Successful login for user 'guest' from IP 192.168.10.5,warning,0.10
+Delhi,2025-09-02T05:40,10.1.1.1,10.1.1.2,guest,ServerABC,file-access,File access: Write to file '/path/to/file929.txt' by user 'guest' from IP 10.1.1.1,warning,0.23
+Delhi,2025-09-01T06:26,181.172.159.223,17.201.110.199,guest,Workstation123,file-access,File access: Write to file '/path/to/file914.txt' by user 'guest' from IP 181.172.159.223,informational,0.77
+Delhi,2025-09-03T12:25,192.168.0.1,10.0.0.3,admin,DeviceXYZ,system-restart,System restart: Reason10,informational,0.30
+Delhi,2025-09-01T16:43,192.168.2.5,10.0.0.3,user123,Workstation123,api-called,API called: API2 from IP 192.168.2.5,informational,0.20
+Delhi,2025-09-02T17:33,192.168.2.5,192.168.0.3,anonymous,ServerABC,auth-success,Successful login for user 'anonymous' from IP 192.168.2.5,error,0.10
+Delhi,2025-08-30T12:37,172.16.0.10,10.0.0.101,user123,DeviceXYZ,auth-success,Successful login for user 'user123' from IP 172.16.0.10,informational,0.10
+Delhi,2025-09-03T22:55,111.76.144.135,209.213.124.75,admin,DeviceXYZ,malware-download-attempt,User admin tried downloading file containing vFormBook download revoked,informational,0.77
+Delhi,2025-09-01T15:18,192.168.10.5,10.0.0.101,admin,DeviceXYZ,auth-failed,Failed login attempt for user 'admin' from IP 192.168.10.5,error,0.33
+Delhi,2025-08-31T01:16,192.168.0.1,10.0.0.3,admin,Workstation123,auth-success,Successful login for user 'admin' from IP 192.168.0.1,informational,0.10
+Delhi,2025-08-31T04:19,192.168.2.5,172.16.1.101,admin,ServerABC,system-restart,System restart: Reason1,warning,0.30
+Delhi,2025-08-31T01:16,10.0.0.2,10.1.1.2,user123,DeviceXYZ,auth-success,Successful login for user 'user123' from IP 10.0.0.2,error,0.10
+Delhi,2025-09-01T01:22,172.16.0.10,192.168.0.2,guest,DeviceXYZ,file-access,File access: Delete to file '/path/to/file30.txt' by user 'guest' from IP 172.16.0.10,warning,0.23
+Delhi,2025-09-03T09:25,10.0.0.100,192.168.2.6,admin,ServerABC,auth-success,Successful login for user 'admin' from IP 10.0.0.100,informational,0.10
+Delhi,2025-09-05T07:57,172.16.1.100,172.16.0.20,guest,Workstation123,auth-success,Successful login for user 'guest' from IP 172.16.1.100,informational,0.10
+Delhi,2025-09-01T05:52,10.0.0.2,10.10.10.20,guest,DeviceXYZ,application-errors,Application error: Error message: 82,warning,0.27
+Delhi,2025-09-01T11:27,221.25.210.115,195.37.153.55,admin,ServerABC,firewall-change,Firewall rule change: Port 49540 opened for IP 221.25.210.115 access revoked,warning,0.83
+Delhi,2025-09-02T04:18,141.58.105.27,246.237.102.40,admin,ServerABC,system-shutdown,System shutdown: Reason2,critical,0.87
+Delhi,2025-09-05T07:39,10.0.0.2,172.16.0.20,anonymous,ServerABC,system-shutdown,System shutdown: Reason5,error,0.33
+Delhi,2025-09-03T22:49,10.0.0.100,10.0.0.3,admin,ServerABC,system-restart,System restart: Reason9,informational,0.30
+Delhi,2025-09-03T12:45,192.168.2.5,192.168.0.2,admin,ServerABC,stuxnet-error,Device 'ServerABC' contains Stuxnet access revoked for ServerABC,informational,0.23
+Delhi,2025-09-04T11:06,192.168.2.5,172.16.0.20,guest,Workstation123,auth-lockout,User 'guest' locked out after multiple failed login attempts from IP 192.168.2.5,error,0.37
+Delhi,2025-09-02T08:17,192.168.2.5,192.168.2.6,anonymous,DeviceXYZ,dns-queries,DNS query from IP 192.168.2.5 for domain 'example71.com',informational,0.17
+Delhi,2025-09-05T01:38,192.168.0.1,10.0.0.3,user123,Workstation123,auth-lockout,User 'user123' locked out after multiple failed login attempts from IP 192.168.0.1,informational,0.37
+Delhi,2025-09-02T15:19,10.1.1.1,10.10.10.20,admin,DeviceXYZ,system-restart,System restart: Reason2,warning,0.30
+Delhi,2025-09-04T21:44,172.16.0.10,192.168.0.3,admin,Workstation123,file-access,File access: Read to file '/path/to/file449.txt' by user 'admin' from IP 172.16.0.10,informational,0.23
+Delhi,2025-09-03T02:16,192.168.2.5,172.16.1.101,user123,ServerABC,system-restart,System restart: Reason5,informational,0.30
+Delhi,2025-08-31T23:39,10.10.10.10,192.168.10.6,user123,Workstation123,stuxnet-error,Device 'Workstation123' contains Stuxnet access revoked for Workstation123,informational,0.23
+Delhi,2025-09-02T09:29,192.168.2.5,192.168.2.6,anonymous,ServerABC,network-disconnected,Device 'ServerABC' disconnected from the network at IP 192.168.2.5,informational,0.13
+Delhi,2025-09-03T17:41,192.168.2.5,10.10.10.20,anonymous,ServerABC,malware-download-attempt,User anonymous tried downloading file containing vAgent Tesla download revoked,warning,0.23
+Delhi,2025-08-31T04:58,10.10.10.10,192.168.0.2,guest,ServerABC,permission-changes,User 'guest' tried changing permissions for file '/path/to/file605.txt' access revoked,warning,0.17
+Delhi,2025-09-01T08:57,192.168.0.1,192.168.0.2,guest,Workstation123,application-errors,Application error: Error message: 23,informational,0.27
+Delhi,2025-09-03T03:59,10.10.10.10,192.168.0.2,anonymous,ServerABC,auth-failed,Failed login attempt for user 'anonymous' from IP 10.10.10.10,informational,0.33
+Delhi,2025-09-01T16:12,10.0.0.100,192.168.10.6,guest,Workstation123,software-update,Software update: Software10 updated to version v2,error,0.27
+Delhi,2025-08-31T09:30,10.1.1.1,192.168.0.3,user123,Workstation123,firewall-change,Firewall rule change: Port 13688 opened for IP 10.1.1.1 access revoked,warning,0.30
+Delhi,2025-09-01T09:05,10.0.0.2,192.168.0.2,guest,Workstation123,system-restart,System restart: Reason5,informational,0.30
+Delhi,2025-09-04T23:52,192.168.1.100,172.16.1.101,admin,ServerABC,malware-detection,Malware detected: File '/path/to/file355.txt' found on device 'ServerABC' access revoked for ServerABC,informational,0.37
+Delhi,2025-08-31T18:12,192.168.2.5,192.168.0.3,admin,ServerABC,system-shutdown,System shutdown: Reason5,warning,0.33
+Delhi,2025-09-02T01:11,10.0.0.2,10.0.0.3,user123,ServerABC,malware-detection,Malware detected: File '/path/to/file693.txt' found on device 'ServerABC' access revoked for ServerABC,informational,0.37
+Delhi,2025-08-31T09:38,10.1.1.1,192.168.10.6,anonymous,ServerABC,auth-success,Successful login for user 'anonymous' from IP 10.1.1.1,critical,0.10
+Delhi,2025-09-05T07:53,192.168.1.100,192.168.2.6,admin,DeviceXYZ,network-connected,Device 'DeviceXYZ' connected to the network at IP 192.168.1.100,informational,0.13
+Delhi,2025-08-30T18:28,10.0.0.2,192.168.0.3,anonymous,DeviceXYZ,auth-success,Successful login for user 'anonymous' from IP 10.0.0.2,informational,0.10
+Delhi,2025-09-04T09:24,81.69.93.252,140.99.14.196,user123,ServerABC,malware-detection,Malware detected: File '/path/to/file600.txt' found on device 'ServerABC' access revoked for ServerABC,informational,0.90
+Delhi,2025-09-02T03:29,10.1.1.1,192.168.0.3,guest,Workstation123,network-disconnected,Device 'Workstation123' disconnected from the network at IP 10.1.1.1,error,0.13
+Delhi,2025-09-01T15:05,172.16.0.10,172.16.1.101,admin,Workstation123,auth-success,Successful login for user 'admin' from IP 172.16.0.10,informational,0.10
+Delhi,2025-09-03T08:38,10.10.10.10,10.0.0.101,guest,Workstation123,network-connected,Device 'Workstation123' connected to the network at IP 10.10.10.10,informational,0.13
+Delhi,2025-09-04T05:28,10.10.10.10,192.168.10.6,admin,DeviceXYZ,application-errors,Application error: Error message: 38,warning,0.27
+Delhi,2025-08-31T08:12,178.110.68.65,255.6.109.55,anonymous,DeviceXYZ,application-errors,Application error: Error message: 22,error,0.80
+Delhi,2025-08-31T13:32,192.168.1.100,10.1.1.2,admin,Workstation123,network-connected,Device 'Workstation123' connected to the network at IP 192.168.1.100,informational,0.13
+Delhi,2025-09-03T13:13,192.168.1.100,192.168.10.6,admin,DeviceXYZ,auth-success,Successful login for user 'admin' from IP 192.168.1.100,critical,0.10
+Delhi,2025-09-01T09:34,192.168.2.5,10.0.0.3,anonymous,Workstation123,network-disconnected,Device 'Workstation123' disconnected from the network at IP 192.168.2.5,informational,0.13
+Delhi,2025-09-04T03:30,192.168.10.5,10.1.1.2,admin,ServerABC,auth-success,Successful login for user 'admin' from IP 192.168.10.5,error,0.10
+Delhi,2025-09-04T03:45,10.0.0.100,172.16.1.101,anonymous,DeviceXYZ,file-access,File access: Read to file '/path/to/file465.txt' by user 'anonymous' from IP 10.0.0.100,informational,0.23
+Delhi,2025-08-30T16:37,172.16.0.10,192.168.0.3,anonymous,Workstation123,auth-success,Successful login for user 'anonymous' from IP 172.16.0.10,informational,0.10
+Delhi,2025-08-31T10:27,192.168.2.5,192.168.0.2,admin,DeviceXYZ,network-connected,Device 'DeviceXYZ' connected to the network at IP 192.168.2.5,informational,0.13
+Delhi,2025-08-30T14:33,192.168.10.5,172.16.1.101,anonymous,Workstation123,firewall-change,Firewall rule change: Port 17922 opened for IP 192.168.10.5 access revoked,informational,0.30
+Delhi,2025-09-05T01:14,192.168.10.5,192.168.10.6,guest,ServerABC,auth-success,Successful login for user 'guest' from IP 192.168.10.5,informational,0.10
+Delhi,2025-09-04T07:57,192.168.2.5,10.0.0.3,user123,ServerABC,firewall-change,Firewall rule change: Port 60328 opened for IP 192.168.2.5 access revoked,informational,0.30
+Delhi,2025-09-03T00:10,192.168.1.100,172.16.1.101,guest,ServerABC,system-restart,System restart: Reason9,informational,0.30
+Delhi,2025-09-02T00:24,10.0.0.2,192.168.2.6,guest,Workstation123,auth-failed,Failed login attempt for user 'guest' from IP 10.0.0.2,informational,0.33
+Delhi,2025-09-04T01:59,192.168.1.100,192.168.10.6,anonymous,ServerABC,auth-success,Successful login for user 'anonymous' from IP 192.168.1.100,informational,0.10
+Delhi,2025-09-02T04:49,230.24.146.243,42.151.91.124,anonymous,ServerABC,software-update,Software update: Software7 updated to version v5,informational,0.80
+Delhi,2025-09-02T14:20,10.0.0.100,10.0.0.3,guest,Workstation123,auth-success,Successful login for user 'guest' from IP 10.0.0.100,informational,0.10
+Delhi,2025-09-01T12:25,10.1.1.1,192.168.2.6,user123,ServerABC,firewall-change,Firewall rule change: Port 14782 opened for IP 10.1.1.1 access revoked,critical,0.30
+Delhi,2025-08-31T07:59,146.6.225.167,242.169.4.216,guest,ServerABC,system-restart,System restart: Reason2,warning,0.83
+Delhi,2025-08-31T05:39,10.0.0.2,10.1.1.2,guest,Workstation123,permission-changes,User 'guest' tried changing permissions for file '/path/to/file715.txt' access revoked,informational,0.17
+Delhi,2025-09-04T05:45,10.0.0.2,192.168.10.6,guest,ServerABC,application-errors,Application error: Error message: 94,informational,0.27
+Delhi,2025-08-30T09:46,10.0.0.2,172.16.1.101,user123,Workstation123,permission-changes,User 'user123' tried changing permissions for file '/path/to/file391.txt' access revoked,warning,0.17
+Delhi,2025-09-01T03:37,192.168.10.5,10.0.0.3,user123,DeviceXYZ,permission-changes,User 'user123' tried changing permissions for file '/path/to/file487.txt' access revoked,warning,0.17
+Delhi,2025-09-02T05:39,29.118.222.67,57.7.60.13,guest,ServerABC,network-disconnected,Device 'ServerABC' disconnected from the network at IP 29.118.222.67,informational,0.67

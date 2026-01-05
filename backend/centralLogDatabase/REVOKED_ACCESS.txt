@@ -1,0 +1,51 @@
+Malware detected: File '/path/to/file643.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ
+User 'anonymous' tried changing permissions for file '/path/to/file570.txt' access revoked
+Device 'ServerABC' contains Melissa access revoked for ServerABC
+User 'user123' tried changing permissions for file '/path/to/file916.txt' access revoked
+Device 'DeviceXYZ' contains Conficker access revoked for DeviceXYZ
+User anonymous tried downloading file containing vAZORult download revoked
+Device 'Workstation123' contains Conficker access revoked for Workstation123
+Malware detected: File '/path/to/file87.txt' found on device 'ServerABC' access revoked for ServerABC
+Firewall rule change: Port 4360 opened for IP 192.168.1.100 access revoked
+Malware detected: File '/path/to/file972.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ
+User 'user123' tried changing permissions for file '/path/to/file665.txt' access revoked
+Device 'DeviceXYZ' contains Stuxnet access revoked for DeviceXYZ
+Firewall rule change: Port 53197 opened for IP 192.168.10.5 access revoked
+Device 'ServerABC' contains Conficker access revoked for ServerABC
+Device 'Workstation123' contains Stuxnet access revoked for Workstation123
+Malware detected: File '/path/to/file710.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ
+Firewall rule change: Port 4903 opened for IP 192.168.0.1 access revoked
+User user123 tried downloading file containing vMOUSEISLAND download revoked
+Device 'ServerABC' contains Conficker access revoked for ServerABC
+Malware detected: File '/path/to/file337.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ
+Firewall rule change: Port 14843 opened for IP 192.168.2.5 access revoked
+Firewall rule change: Port 8949 opened for IP 192.168.1.100 access revoked
+Firewall rule change: Port 7712 opened for IP 172.16.1.100 access revoked
+Malware detected: File '/path/to/file70.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ
+Firewall rule change: Port 10956 opened for IP 192.168.10.5 access revoked
+Device 'DeviceXYZ' contains Melissa access revoked for DeviceXYZ
+Malware detected: File '/path/to/file55.txt' found on device 'DeviceXYZ' access revoked for DeviceXYZ
+Device 'ServerABC' contains Stuxnet access revoked for ServerABC
+Firewall rule change: Port 54011 opened for IP 10.1.1.1 access revoked
+Device 'ServerABC' contains Melissa access revoked for ServerABC
+User 'user123' tried changing permissions for file '/path/to/file195.txt' access revoked
+Device 'DeviceXYZ' contains Stuxnet access revoked for DeviceXYZ
+Device 'Workstation123' contains Melissa access revoked for Workstation123
+Device 'DeviceXYZ' contains Stuxnet access revoked for DeviceXYZ
+Device 'DeviceXYZ' contains Stuxnet access revoked for DeviceXYZ
+User admin tried downloading file containing vFormBook download revoked
+User admin tried downloading file containing vFormBook download revoked
+Firewall rule change: Port 49540 opened for IP 221.25.210.115 access revoked
+Device 'ServerABC' contains Stuxnet access revoked for ServerABC
+Device 'Workstation123' contains Stuxnet access revoked for Workstation123
+User anonymous tried downloading file containing vAgent Tesla download revoked
+User 'guest' tried changing permissions for file '/path/to/file605.txt' access revoked
+Firewall rule change: Port 13688 opened for IP 10.1.1.1 access revoked
+Malware detected: File '/path/to/file355.txt' found on device 'ServerABC' access revoked for ServerABC
+Malware detected: File '/path/to/file693.txt' found on device 'ServerABC' access revoked for ServerABC
+Malware detected: File '/path/to/file600.txt' found on device 'ServerABC' access revoked for ServerABC
+Firewall rule change: Port 17922 opened for IP 192.168.10.5 access revoked
+Firewall rule change: Port 60328 opened for IP 192.168.2.5 access revoked
+Firewall rule change: Port 14782 opened for IP 10.1.1.1 access revoked
+User 'guest' tried changing permissions for file '/path/to/file715.txt' access revoked
+User 'user123' tried changing permissions for file '/path/to/file391.txt' access revoked
